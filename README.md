@@ -6,3 +6,6 @@ GraalVM Playground
 
 - sudo vim ~/.bashrc
 - export PATH=/home/joellobo/dev/tools/graalvm-ce-java11-21.0.0.2/bin:$PATH
+
+
+- mvn spring-boot:native-image
